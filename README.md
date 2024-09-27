@@ -8,7 +8,21 @@ Project managers can ensure that deadlines are met by; prioritizing tasks, monit
 Effective cost control ensures efficient allocating of resources.
 Defining a realistic budget, identifying risks, and monitoring spending are strategies that can be used to prevent budget overruns.
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
-
+Agile methodology is good for projects that need flexibility while waterfall methodology is good for projects with a clear plan. 
+Agile:
+Advantages:
+Allows for rapid response to feedback.
+Adaptable to change.
+Disadvantages:
+Can be difficult to measure progress.
+May lead to lack of direction.
+Waterfall:
+Advantages:
+Clear and well defined steps.
+Emphasizes documentation and planning.
+Disadvantages:
+Inflexible to change.
+Delays in delivery.
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
