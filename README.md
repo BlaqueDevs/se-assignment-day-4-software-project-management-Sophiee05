@@ -36,7 +36,11 @@ Defining the scope clarifies the objective, and helps estimate resources.
 WBS is the decomposition of a project into smaller manageable tasks.
 WBS is useful because it creates a clear roadmap and breaks down complex tasks.
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+The benefits are; increased productivity, reduced stress and on time delivery.
+Gnatts charts can assist in visual representation, and task organization.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Core issues include; Optimizing resource allocation and project delays.
+These issues are significant because they impact project success, and result in cost overruns.
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
