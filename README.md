@@ -29,7 +29,12 @@ Example: Developing a mobile app, improving a website's user experience.
 Waterfall is more beneficial in projects like; Construction projects, projects with limited resources.
 Example: Building a bridge.
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+Methods include; testing, documentation, code reviews.
+It is important because; it reduces cost, its ensure reliability.
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining the scope clarifies the objective, and helps estimate resources.
+WBS is the decomposition of a project into smaller manageable tasks.
+WBS is useful because it creates a clear roadmap and breaks down complex tasks.
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
