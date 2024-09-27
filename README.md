@@ -42,7 +42,9 @@ Gnatts charts can assist in visual representation, and task organization.
 Core issues include; Optimizing resource allocation and project delays.
 These issues are significant because they impact project success, and result in cost overruns.
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+It helps in focus, understanding, prioritizing and efficient use of resources.
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+My software solution is a project management tool that helps teams work more efficiently and effectively. It is basically a roadmap that helps teams stay focused, communicate clearly, and deliver results.
 ## 11. What are the main features or functionalities that make your software stand out?
 ## 12. What data is available regarding the market size and growth potential for your software?
 ## 13. How can understanding market trends inform your software’s positioning and development?
