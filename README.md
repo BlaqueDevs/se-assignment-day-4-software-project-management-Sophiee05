@@ -48,4 +48,6 @@ My software solution is a project management tool that helps teams work more eff
 ## 11. What are the main features or functionalities that make your software stand out?
 Real time visibility, seamless communication and automated task management.
 ## 12. What data is available regarding the market size and growth potential for your software?
+Software developers in general, will use a software that will enhance communication while simultaneously automating tadks, for efficiency.
 ## 13. How can understanding market trends inform your software’s positioning and development?
+Understanding market trends will help me know what customers need and expect. It helps prioritize features that match current demands.
